@@ -20,6 +20,7 @@ Maintained by [Noxkeys](https://noxkeys.com/), a genuine Microsoft licence store
 - [Common errors & fixes](#common-errors--fixes)
 - [How to activate Windows legally](#how-to-activate-windows-legally)
 - [FAQ](#faq)
+- [Related guides](#related-guides)
 - [References](#references)
 
 ---
@@ -172,6 +173,18 @@ No. KMS keys need a corporate KMS host server. On a home PC they fail with `0xC0
 
 **Is a Windows 10 key valid for Windows 11?**
 Yes. Genuine Windows 10 keys of the same edition activate Windows 11.
+
+---
+
+## Related guides
+
+More free references maintained by [Noxkeys](https://noxkeys.com/):
+
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
